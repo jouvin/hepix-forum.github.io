@@ -1,2 +1,7 @@
+name: HEPiX
+description: Site of HEPiX WGs
+highlighter: rouge
+markdown: kramdown
+exclude: [vendor]
 sass:
     style: :compressed
